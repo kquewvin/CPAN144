@@ -5,6 +5,11 @@
   margin-bottom: 30px;
 }
 
-.input {
-  padding-left: 5px;
+.submit {
+  margin-left: 10px;
+  padding: 0.1rem;
+}
+
+.message {
+  margin-top: 7px;
 }
